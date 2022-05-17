@@ -14,7 +14,7 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
 [![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
 [![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
-[![iOS 14](https://img.shields.io/badge/iOS%2014-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
+[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)
 
 ## 📱 Devices in use
 [![Redmi K20 Pro](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t-pro/)
