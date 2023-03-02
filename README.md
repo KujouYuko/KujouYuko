@@ -4,8 +4,6 @@
  - I'm a student of IoT Engineering, co-leader on [Project-Kaleidoscope](https://github.com/Project-Kaleidoscope), contributor on [ArrowOS](https://github.com/ArrowOS).
  - I like all the beautiful things.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KujouYuko&layout=compact&hide_title=true&hide_border=true" />
-
 ## 🤔 What I'm doing
  - Learning Algorithm/C Sharp/Kotlin.
 
