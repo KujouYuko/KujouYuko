@@ -1,9 +1,20 @@
 ## 👋 Hi there
- - I'm a student of IoT Engineering, founder on [Project-Mia](https://github.com/Project-Mia), co-leader on [Project-Kaleidoscope](https://github.com/Project-Kaleidoscope), contributor on [ArrowOS](https://github.com/ArrowOS).
- - I like all the beautiful things.
+```c++
+#include <bits/stdc++.h>
 
-## 🤔 What I'm doing
- - Learning Algorithm/C Sharp/Kotlin.
+int main() {
+    std::string about[] = {
+        "I'm a student of IoT Engineering, founder on Project-Mia.",
+    };
+
+    std::string doing[] = {
+        "Learning C#/Rust.",
+        "Maintaining AOSPA for Xiaomi 12.",
+    };
+
+    return 0;
+}
+```
 
 ## 💻 Working environment
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/get-windows-10)
