@@ -16,13 +16,6 @@ int main() {
 }
 ```
 
-## 💻 Working environment
-[![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/get-windows-10)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d0?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org)
-[![Debian 11](https://img.shields.io/badge/Debian%2011-a80030?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/News/2021/20210814)
-[![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
-[![iOS 16](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-16/)
-
 ## 📱 Devices in use
 [![Xiaomi 12](https://img.shields.io/badge/Xiaomi%2012-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/xiaomi-12/)
 [![iPhone 12 mini](https://img.shields.io/badge/iPhone%2012%20mini-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-12/)
