@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KujouYuko&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true" />
-
 ## 👋 Hi there
  - I'm a student of IoT Engineering, founder on [Project-Mia](https://github.com/Project-Mia), co-leader on [Project-Kaleidoscope](https://github.com/Project-Kaleidoscope), contributor on [ArrowOS](https://github.com/ArrowOS).
  - I like all the beautiful things.
