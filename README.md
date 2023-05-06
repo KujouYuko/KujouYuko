@@ -1,6 +1,7 @@
-## 👋 Hi there
 ```c++
 #include <bits/stdc++.h>
+
+typedef std::map<std::string, std::string> string_map;
 
 int main() {
     std::string about[] = {
@@ -12,24 +13,21 @@ int main() {
         "Maintaining AOSPA for Xiaomi 12.",
     };
 
+    std::string device[] = {
+        "Xiaomi 12",
+        "iPhone 12 mini",
+        "Lenovo Legion Y70",
+        "Xiaomi Pad 5 Pro 12.4",
+        "Lenovo Legion R7000 2020",
+    };
+
+    string_map contact = {
+        {"Email", "mailto:i@779.moe"},
+        {"Bilibili", "https://space.bilibili.com/19036404"},
+    };
+
+    std::string pgp_key = "B2EB 2253 857B F30E 31B1 C8AE BC04 4387 63A9 7840";
+
     return 0;
 }
 ```
-
-## 📱 Devices in use
-[![Xiaomi 12](https://img.shields.io/badge/Xiaomi%2012-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/product/xiaomi-12/)
-[![iPhone 12 mini](https://img.shields.io/badge/iPhone%2012%20mini-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone-12/)
-[![Legion R7000 2020](https://img.shields.io/badge/Legion%20R7000%202020-e60012?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-5-series/Lenovo-Legion-5-15ARH05/p/88GMY501444)
-
-## 📫 Get in touch
-[![Bilibili](https://img.shields.io/badge/%E4%B9%9D%E6%9D%A1%E7%A5%90%E5%AD%90-07a3d7?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/19036404)
-[![Email](https://img.shields.io/badge/i%40779%2emoe-3873C4?style=flat-square&logo=thunderbird&logoColor=ffffff)](mailto:i@779.moe)
-
-## 🔒 PGP
-```
-B2EB 2253 857B F30E 31B1 C8AE BC04 4387 63A9 7840
-```
-
-You can download public key from:
- - [OpenPGP Organization](https://keys.openpgp.org/search?q=B2EB2253857BF30E31B1C8AEBC04438763A97840)
- - [Ubuntu OpenPGP Keyserver](https://keyserver.ubuntu.com/pks/lookup?search=B2EB2253857BF30E31B1C8AEBC04438763A97840&fingerprint=on&op=index)
