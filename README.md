@@ -1,23 +1,28 @@
 ```c++
-#include <bits/stdc++.h>
+#include <map>
+#include <string>
 
-typedef std::map<std::string, std::string> string_map;
+namespace self_intro {
 
 std::string about[] = {
-    "I'm a student of IoT Engineering, founder on Project-Mia.",
+    "I'm a student of IoT Engineering, founder on Zako Club and Project-Mia.",
 };
 
 std::string doing[] = {
+    "Preparing for postgraduate school re-examination.",
 };
 
 std::string device[] = {
     "iPhone 12 mini",
-    "Lenovo Legion R7000 2020",
+    "ASUS Zenfone 9",
+    "ASUS TUF Gaming A14 (2024)",
 };
 
-string_map contact = {
-    {"Email", "mailto:i@779.moe"},
-    {"X", "https://twitter.com/KujouYuko"},
+std::map<std::string, std::string> contact = {
+    {"Email", "mailto:tongsj2333@gmail.com"},
+    {"X", "https://x.com/KujouYuko"},
     {"Bilibili", "https://space.bilibili.com/19036404"},
 };
+
+}
 ```
