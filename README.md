@@ -5,11 +5,11 @@
 namespace self_intro {
 
 std::string about[] = {
-    "I'm a student of IoT Engineering, founder on Zako Club and Project-Mia.",
+    "I'm a student of IoT Engineering, founder on Zako Club and Mia Institute.",
 };
 
 std::string doing[] = {
-    "Preparing for postgraduate school re-examination.",
+    "Nothing.",
 };
 
 std::string device[] = {
