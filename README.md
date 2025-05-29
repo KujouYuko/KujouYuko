@@ -13,8 +13,7 @@ std::string doing[] = {
 };
 
 std::string device[] = {
-    "iPhone 12 mini",
-    "ASUS Zenfone 9",
+    "Xiaomi 15",
     "ASUS TUF Gaming A14 (2024)",
 };
 
