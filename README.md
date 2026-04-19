@@ -1,27 +1,44 @@
-```c++
-#include <map>
-#include <string>
+```rust
+use std::collections::HashMap;
 
-namespace self_intro {
+fn print_section(title: &str, items: &[&str]) {
+    println!("{title}:");
+    for item in items {
+        println!("- {item}");
+    }
+}
 
-std::string about[] = {
-    "I'm a student of Big Data Technology and Engineering, founder on Zako Club and Mia Institute.",
-};
+fn print_contact(title: &str, contact: &HashMap<&str, &str>) {
+    println!("{title}:");
+    for (key, value) in contact {
+        let formatted = value.replace(" at ", "@").replace(" dot ", ".");
+        println!("- {key}: {formatted}");
+    }
+}
 
-std::string doing[] = {
-    "Nothing.",
-};
+fn main() {
+    let about = [
+        "I'm a master's student of Big Data Technology and Engineering, founder on Zako Club and Mia Institute.",
+    ];
 
-std::string device[] = {
-    "Xiaomi 15",
-    "ASUS TUF Gaming A14 (2024)",
-};
+    let doing = [
+        "Nothing.",
+    ];
 
-std::map<std::string, std::string> contact = {
-    {"Email", "mailto:tongsj2333@gmail.com"},
-    {"X", "https://x.com/KujouYuko"},
-    {"Bilibili", "https://space.bilibili.com/19036404"},
-};
+    let device = [
+        "Samsung Galaxy S25",
+        "ASUS TUF Gaming A14 (2024)",
+    ];
 
+    let contact: HashMap<_, _> = [
+        ("Email", "779 at zako dot club"),
+        ("X", "https://x.com/KujouYuko"),
+        ("Bilibili", "https://space.bilibili.com/19036404"),
+    ].into_iter().collect();
+
+    print_section("About", &about);
+    print_section("Doing", &doing);
+    print_section("Device", &device);
+    print_contact("Contact", &contact);
 }
 ```
