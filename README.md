@@ -18,7 +18,8 @@ fn print_contact(title: &str, contact: &HashMap<&str, &str>) {
 
 fn main() {
     let about = [
-        "I'm a master's student of Big Data Technology and Engineering, founder on Zako Club and Mia Institute.",
+        "I'm a master's student of Big Data Technology and Engineering, founder \
+         of Zako Club and Mia Institute.",
     ];
 
     let doing = [
@@ -30,7 +31,7 @@ fn main() {
         "ASUS TUF Gaming A14 (2024)",
     ];
 
-    let contact: HashMap<_, _> = [
+    let contact = [
         ("Email", "779 at zako dot club"),
         ("X", "https://x.com/KujouYuko"),
         ("Bilibili", "https://space.bilibili.com/19036404"),
